@@ -1,0 +1,33 @@
+.body {
+    background-color: rgb(54, 53, 67);
+
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15%;
+    color: white;
+    margin-left: 10%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.text {
+    margin-right: 60%;
+}
+
+.img {
+    height: 400px;
+    width: 400px;
+    border-radius: 100%;
+}
+.ser{
+    margin-left: 1
+    0%;
+}
