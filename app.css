@@ -5,29 +5,54 @@
 
 .nav {
     display: flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     justify-content: space-between;
 }
 
-.main {
-    display: flex;
-    justify-content: space-between;
+.mains {
     margin-top: 15%;
     color: white;
     margin-left: 10%;
-    display: flex;
-    justify-content: space-between;
+    font-weight: 900;
 }
 
 .text {
     margin-right: 60%;
 }
 
+
+#name {
+    color: white;
+    font-size: 17px;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    width: 100px;
+}
+
+.icon_div {
+    margin-right: 60px;
+    margin-top: 8px;
+}
+
+.h1 {
+    color: gray;
+}
+
+.names {
+    border-bottom: 1px solid rgb(221, 196, 2);
+    border-width: 8px;
+    width: 280px;
+}
+
+
+
 .img {
     height: 400px;
     width: 400px;
-    border-radius: 100%;
-}
-.ser{
-    margin-left: 1
-    0%;
+    margin-bottom: 100%;
+
 }
